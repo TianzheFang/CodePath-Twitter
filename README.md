@@ -23,7 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 ![Kapture 2022-09-26 at 21 37 50](https://user-images.githubusercontent.com/72420821/192412058-9df58342-d203-4bb7-a5b2-56a50796353c.gif)
+There is an error : 429 occurring. Then I cannot display anything in my app.
 
 
-
+![Kapture 2022-09-26 at 21 48 11](https://user-images.githubusercontent.com/72420821/192412363-878823ae-a467-4b8a-8d82-031577712ce7.gif)
 
