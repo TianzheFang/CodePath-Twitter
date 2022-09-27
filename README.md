@@ -22,7 +22,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![Kapture 2022-09-26 at 21 37 50](https://user-images.githubusercontent.com/72420821/192412058-9df58342-d203-4bb7-a5b2-56a50796353c.gif)
 
 
-![Kapture 2022-09-26 at 21 37 50](https://user-images.githubusercontent.com/72420821/192411226-d8352e49-075a-478f-986f-15dd36901548.gif)
+
 
